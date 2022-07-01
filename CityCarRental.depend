@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1640876339 source:d:\users\tanisha\documents\c project\citycarrental\car.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"car.h"
+	<string.h>
+
+1632993507 d:\users\tanisha\documents\c project\citycarrental\conio2.h
+	<conio.h>
+	<windows.h>
+
+1649945775 d:\users\tanisha\documents\c project\citycarrental\car.h
+	<time.h>
+
+1632993489 source:d:\users\tanisha\documents\c project\citycarrental\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1640874172 source:d:\users\tanisha\documents\c project\citycarrental\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"car.h"
+
